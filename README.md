@@ -51,6 +51,7 @@
 | ![陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png) | [陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/README.md) | 豆沙宽边素裙＋宽边花角罗帕 |
 | ![王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/portrait.png) | [王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/README.md) | 赭棕藏青方块胸纹袍＋旧金方扣宽腰封 |
 | ![梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png) | [梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/README.md) | 竹青双竖襟长衫＋方形翻盖书袋 |
+| ![祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/portrait.png) | [祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/README.md) | 湖蓝三角折巾＋半开竹骨折扇 |
 
 ## 后续收录
 
