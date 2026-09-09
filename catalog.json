@@ -32,6 +32,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "朱红状元袍＋短横翅乌纱帽",
       "sha256": "30aaa0283a12abf1da497d645e439b3548949dd27c8c22944bb9bcb0058c3580"
+    },
+    {
+      "id": "da-zhu-cao-tao-jin-hua",
+      "displayName": "陶金花",
+      "opera": "黄梅戏",
+      "play": "打猪草",
+      "role": "陶金花",
+      "roleType": null,
+      "path": "pets/da-zhu-cao/da-zhu-cao-tao-jin-hua",
+      "preview": "pets/da-zhu-cao/da-zhu-cao-tao-jin-hua/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "桃红嫩绿围裙装＋三叶草篮",
+      "sha256": "ecd012e605aa3a33589317301d902dddaa854db9ffbcbab38754f4534baa4919"
     }
   ]
 }
