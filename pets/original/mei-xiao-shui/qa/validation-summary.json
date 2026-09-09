@@ -1,0 +1,21 @@
+{
+  "petId": "mei-xiao-shui",
+  "spriteVersionNumber": 2,
+  "atlas": "spritesheet.webp",
+  "width": 1536,
+  "height": 2288,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "standardAnimationFrames": 57,
+  "lookDirections": 16,
+  "sha256": "25c4424cb0d4c02ed774ed892a49da768dfff5d2d4c541d3da0e81d4b2650cd8",
+  "structuralValidation": "pass",
+  "chromaValidation": "pass",
+  "directionBlindReview": "pass (majority of three independent reviewers)",
+  "visualReview": "pass with minor warnings",
+  "warnings": [
+    "Some near-horizontal diagonal gaze components are subtle.",
+    "Angular spacing at the two look-row joins is slightly uneven."
+  ],
+  "verificationLimits": "All preview frame sequences were reviewed; real-time playback and live Codex app runtime were not verified."
+}

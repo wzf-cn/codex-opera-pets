@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "collection": "Codex Opera Pets",
+  "license": "CC-BY-4.0",
+  "pets": [
+    {
+      "id": "mei-xiao-shui",
+      "displayName": "梅小水",
+      "opera": "黄梅戏主题",
+      "play": null,
+      "role": "原创引导角色",
+      "roleType": null,
+      "path": "pets/original/mei-xiao-shui",
+      "preview": "pets/original/mei-xiao-shui/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "sha256": "25c4424cb0d4c02ed774ed892a49da768dfff5d2d4c541d3da0e81d4b2650cd8"
+    }
+  ]
+}
