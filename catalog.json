@@ -47,6 +47,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "桃红嫩绿围裙装＋三叶草篮",
       "sha256": "ecd012e605aa3a33589317301d902dddaa854db9ffbcbab38754f4534baa4919"
+    },
+    {
+      "id": "nv-fu-ma-li-zhao-ting",
+      "displayName": "李兆廷",
+      "opera": "黄梅戏",
+      "play": "女驸马",
+      "role": "李兆廷",
+      "roleType": null,
+      "path": "pets/nv-fu-ma/nv-fu-ma-li-zhao-ting",
+      "preview": "pets/nv-fu-ma/nv-fu-ma-li-zhao-ting/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "青灰斜边领长衫＋无字线装书",
+      "sha256": "7f336b0c44b966fd27594ad65d27ea802a880f1d5e5eeb91dffa67eb66d8a1e7"
     }
   ]
 }
