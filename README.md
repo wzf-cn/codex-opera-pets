@@ -47,6 +47,7 @@
 | 预览 | 角色 | 专属标志 |
 | --- | --- | --- |
 | ![牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png) | [牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 背系草帽＋腰间短粗绳圈 |
+| ![织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png) | [织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/README.md) | 月蓝织纹窄袖衣＋银白小织梭 |
 
 ## 后续收录
 

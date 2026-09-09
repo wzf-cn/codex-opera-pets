@@ -90,6 +90,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "niu-lang-zhi-nv-zhi-nv",
+      "displayName": "织女",
+      "play": "牛郎织女",
+      "path": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv",
+      "preview": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png",
+      "exclusiveSignature": "月蓝织纹窄袖衣＋银白小织梭",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
