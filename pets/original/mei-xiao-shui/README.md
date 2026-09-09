@@ -1,4 +1,4 @@
-# 梅小水 · Mei Xiao Shui
+# 梅小水 · Mei Xiao Shui · 卡通人偶
 
 ![待机](preview.gif)
 
