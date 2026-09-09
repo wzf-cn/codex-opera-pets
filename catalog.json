@@ -112,6 +112,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "luo-pa-ji-wang-ke-ju",
+      "displayName": "王科举",
+      "play": "罗帕记",
+      "path": "designs/luo-pa-ji/luo-pa-ji-wang-ke-ju",
+      "preview": "designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/portrait.png",
+      "exclusiveSignature": "赭棕藏青方块胸纹袍＋旧金方扣宽腰封",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
