@@ -123,6 +123,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "liang-zhu-liang-shan-bo",
+      "displayName": "梁山伯",
+      "play": "梁山伯与祝英台",
+      "path": "designs/liang-zhu/liang-zhu-liang-shan-bo",
+      "preview": "designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png",
+      "exclusiveSignature": "竹青双竖襟长衫＋方形翻盖书袋",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
