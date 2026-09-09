@@ -55,6 +55,7 @@
 | ![小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/portrait.png) | [小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/README.md) | 暖橙靛青斜襟裙装＋单朵橘瓣布花 |
 | ![王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png) | [王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/README.md) | 砖红短褂小圆帽＋六角花灯 |
 | ![董永](designs/tian-xian-pei/tian-xian-pei-dong-yong/portrait.png) | [董永](designs/tian-xian-pei/tian-xian-pei-dong-yong/README.md) | 肘部方补丁靛蓝短衫＋十字结软包袱 |
+| ![金小毛](designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/portrait.png) | [金小毛](designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/README.md) | 翠绿卷袖短衣＋圆钝小竹笋 |
 
 ## 后续收录
 

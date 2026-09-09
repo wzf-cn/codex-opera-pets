@@ -178,6 +178,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "da-zhu-cao-jin-xiao-mao",
+      "displayName": "金小毛",
+      "play": "打猪草",
+      "path": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao",
+      "preview": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/portrait.png",
+      "exclusiveSignature": "翠绿卷袖短衣＋圆钝小竹笋",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
