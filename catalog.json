@@ -145,6 +145,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "fu-qi-guan-deng-xiao-liu-qi",
+      "displayName": "小六妻",
+      "play": "夫妻观灯",
+      "path": "designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi",
+      "preview": "designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/portrait.png",
+      "exclusiveSignature": "暖橙靛青斜襟裙装＋单朵橘瓣布花",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }

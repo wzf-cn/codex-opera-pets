@@ -52,6 +52,7 @@
 | ![王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/portrait.png) | [王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/README.md) | 赭棕藏青方块胸纹袍＋旧金方扣宽腰封 |
 | ![梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png) | [梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/README.md) | 竹青双竖襟长衫＋方形翻盖书袋 |
 | ![祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/portrait.png) | [祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/README.md) | 湖蓝三角折巾＋半开竹骨折扇 |
+| ![小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/portrait.png) | [小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/README.md) | 暖橙靛青斜襟裙装＋单朵橘瓣布花 |
 
 ## 后续收录
 
