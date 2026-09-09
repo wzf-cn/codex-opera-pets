@@ -78,5 +78,18 @@
       "exclusiveSignature": "绛紫扇形小宫冠＋花纹团扇",
       "sha256": "ce98a73c4dc95121fc0de3672e8a2c189af806e3a3d75de3b438f94031012893"
     }
+  ],
+  "characterDesigns": [
+    {
+      "id": "niu-lang-zhi-nv-niu-lang",
+      "displayName": "牛郎",
+      "play": "牛郎织女",
+      "path": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang",
+      "preview": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png",
+      "exclusiveSignature": "背系草帽＋腰间短粗绳圈",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
+    }
   ]
 }

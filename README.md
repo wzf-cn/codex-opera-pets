@@ -40,6 +40,14 @@
 
 每个角色提供图集、动图预览、SHA-256 和脱敏验证摘要。梅小水已通过结构、透明边缘及方向盲测检查，逐帧视觉复核通过并保留轻微差异说明；尚未验证应用内实际播放。详见 [验证摘要](pets/original/mei-xiao-shui/qa/validation-summary.json)。
 
+## 主形象参考（尚非动画包）
+
+以下仅完成静态角色形象，动画尚待制作。
+
+| 预览 | 角色 | 专属标志 |
+| --- | --- | --- |
+| ![牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png) | [牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 背系草帽＋腰间短粗绳圈 |
+
 ## 后续收录
 
 目录采用 `pets/<剧目标识>/<角色标识>/`，原创角色使用 `pets/original/`。同名角色的不同剧目版本分别建档，安装 ID 保持全库唯一。每个角色记录剧目、行当、造型参考、动作设计及素材许可，未核实内容保留空值。
