@@ -48,6 +48,7 @@
 | --- | --- | --- |
 | ![牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png) | [牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 背系草帽＋腰间短粗绳圈 |
 | ![织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png) | [织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/README.md) | 月蓝织纹窄袖衣＋银白小织梭 |
+| ![陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png) | [陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/README.md) | 豆沙宽边素裙＋宽边花角罗帕 |
 
 ## 后续收录
 

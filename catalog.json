@@ -101,6 +101,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "luo-pa-ji-chen-sai-jin",
+      "displayName": "陈赛金",
+      "play": "罗帕记",
+      "path": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin",
+      "preview": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png",
+      "exclusiveSignature": "豆沙宽边素裙＋宽边花角罗帕",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
