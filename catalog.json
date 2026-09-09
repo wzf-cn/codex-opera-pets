@@ -62,6 +62,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "青灰斜边领长衫＋无字线装书",
       "sha256": "7f336b0c44b966fd27594ad65d27ea802a880f1d5e5eeb91dffa67eb66d8a1e7"
+    },
+    {
+      "id": "nv-fu-ma-gong-zhu",
+      "displayName": "公主",
+      "opera": "黄梅戏",
+      "play": "女驸马",
+      "role": "公主",
+      "roleType": null,
+      "path": "pets/nv-fu-ma/nv-fu-ma-gong-zhu",
+      "preview": "pets/nv-fu-ma/nv-fu-ma-gong-zhu/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "绛紫扇形小宫冠＋花纹团扇",
+      "sha256": "ce98a73c4dc95121fc0de3672e8a2c189af806e3a3d75de3b438f94031012893"
     }
   ]
 }
