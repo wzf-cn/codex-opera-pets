@@ -2,13 +2,16 @@
 
 黄梅戏主题的开源 Codex 动画宠物合集，持续收录经典剧目角色，以卡通动画呈现戏服、身段与角色个性。
 
-目前收录 **1 只原创主题宠物**。长期目标是逐步覆盖黄梅戏剧目角色；尚未制作的角色不计入已收录目录。
+目前收录 **2 只完整动画宠物**。静态主形象另列，不计入可安装宠物数量。
 
 ## 角色目录
 
-| 预览 | 角色 | 所属剧目 | 特色 | 下载 |
+| 预览 | 角色 | 所属剧目 | 专属标志 | 下载 |
 | --- | --- | --- | --- | --- |
-| ![梅小水](pets/original/mei-xiao-shui/preview.gif) | [梅小水](pets/original/mei-xiao-shui/README.md) | 原创黄梅戏主题引导角色 | 淡黄与水绿戏服、凤冠、水袖、小锣 | [宠物 ZIP](downloads/mei-xiao-shui.zip) |
+| ![梅小水](pets/original/mei-xiao-shui/preview.gif) | [梅小水](pets/original/mei-xiao-shui/README.md) | 原创黄梅戏主题 | 淡黄水绿戏服＋凤冠＋小锣 | [宠物 ZIP](downloads/mei-xiao-shui.zip) |
+| ![冯素珍·状元版](pets/nv-fu-ma/nv-fu-ma-feng-su-zhen-zhuangyuan/preview.gif) | [冯素珍·状元版](pets/nv-fu-ma/nv-fu-ma-feng-su-zhen-zhuangyuan/README.md) | 女驸马 | 朱红状元袍＋短横翅乌纱帽 | [宠物 ZIP](downloads/nv-fu-ma-feng-su-zhen-zhuangyuan.zip) |
+
+凤冠与小锣只属于梅小水；其他已登记的具体服饰与道具同样不可跨角色复用。
 
 ## 三种主要动作
 
