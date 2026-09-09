@@ -189,6 +189,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "tian-xian-pei-qi-xian-nv",
+      "displayName": "七仙女",
+      "play": "天仙配",
+      "path": "designs/tian-xian-pei/tian-xian-pei-qi-xian-nv",
+      "preview": "designs/tian-xian-pei/tian-xian-pei-qi-xian-nv/portrait.png",
+      "exclusiveSignature": "足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }
