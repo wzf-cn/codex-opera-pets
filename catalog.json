@@ -156,6 +156,17 @@
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
+    },
+    {
+      "id": "fu-qi-guan-deng-wang-xiao-liu",
+      "displayName": "王小六",
+      "play": "夫妻观灯",
+      "path": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu",
+      "preview": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png",
+      "exclusiveSignature": "砖红短褂小圆帽＋六角花灯",
+      "status": "static-design",
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn"
     }
   ]
 }

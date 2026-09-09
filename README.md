@@ -26,13 +26,13 @@
 
 ## 安装
 
-下载上方 ZIP 并解压，将其中 `mei-xiao-shui` 文件夹放入 Codex 自定义宠物目录：
+下载对应角色的宠物 ZIP 并解压，将其中以角色 ID 命名的文件夹放入 Codex 自定义宠物目录：
 
 - Windows：`%USERPROFILE%\.codex\pets\`
 - macOS / Linux：`~/.codex/pets/`
 - 如果设置了 `CODEX_HOME`，使用该目录下的 `pets/`。
 
-最终应存在 `pets/mei-xiao-shui/pet.json` 与 `pets/mei-xiao-shui/spritesheet.webp`。仓库的剧目分组不用复制到安装目录。然后在 Codex 的宠物设置中刷新并选择「梅小水」；必要时重新启动应用。
+最终应存在 `pets/mei-xiao-shui/pet.json` 与 `pets/mei-xiao-shui/spritesheet.webp`。仓库的剧目分组不用复制到安装目录。然后在 Codex 的宠物设置中刷新并选择对应角色；必要时重新启动应用。
 
 ## 格式与验证
 
@@ -53,6 +53,7 @@
 | ![梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png) | [梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/README.md) | 竹青双竖襟长衫＋方形翻盖书袋 |
 | ![祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/portrait.png) | [祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/README.md) | 湖蓝三角折巾＋半开竹骨折扇 |
 | ![小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/portrait.png) | [小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/README.md) | 暖橙靛青斜襟裙装＋单朵橘瓣布花 |
+| ![王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png) | [王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/README.md) | 砖红短褂小圆帽＋六角花灯 |
 
 ## 后续收录
 
