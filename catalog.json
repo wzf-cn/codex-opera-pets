@@ -167,20 +167,24 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "月蓝织纹窄袖衣＋银白小织梭",
       "sha256": "3c3e2985cb40378fa743a0985da484f66b6ba900fc9ed7ae7913a521c2b963e5"
-    }
-  ],
-  "characterDesigns": [
+    },
     {
       "id": "liang-zhu-liang-shan-bo",
       "displayName": "梁山伯",
+      "opera": "黄梅戏",
       "play": "梁山伯与祝英台",
-      "path": "designs/liang-zhu/liang-zhu-liang-shan-bo",
-      "preview": "designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png",
-      "exclusiveSignature": "竹青双竖襟长衫＋方形翻盖书袋",
-      "status": "static-design",
+      "role": "梁山伯",
+      "roleType": null,
+      "path": "pets/liang-zhu/liang-zhu-liang-shan-bo",
+      "preview": "pets/liang-zhu/liang-zhu-liang-shan-bo/preview.gif",
+      "spriteVersionNumber": 2,
       "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
+      "credit": "wzf-cn",
+      "exclusiveSignature": "竹青双竖襟长衫＋方形翻盖书袋",
+      "sha256": "2321c40913d4761325610c21e891fe5cf815ec1413b4713266cd736f8f2dad8e"
+    }
+  ],
+  "characterDesigns": [
     {
       "id": "liang-zhu-zhu-ying-tai-shuzhuang",
       "displayName": "祝英台·书装版",

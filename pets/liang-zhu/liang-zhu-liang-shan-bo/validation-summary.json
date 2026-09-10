@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "id": "liang-zhu-liang-shan-bo",
+  "spriteVersionNumber": 2,
+  "standardFrames": 57,
+  "lookDirections": 16,
+  "exclusiveSignature": "竹青双竖襟长衫＋方形翻盖书袋",
+  "appRuntimeVerified": false,
+  "sha256": "2321c40913d4761325610c21e891fe5cf815ec1413b4713266cd736f8f2dad8e",
+  "generation": "built-in imagegen"
+}
