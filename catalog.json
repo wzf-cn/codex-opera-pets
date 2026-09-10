@@ -197,6 +197,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "湖蓝三角折巾＋半开竹骨折扇",
       "sha256": "86ce09185299b3531adc1c54f29d4699365dc5e4830adbc269ab3ee11ecd0554"
+    },
+    {
+      "id": "da-zhu-cao-jin-xiao-mao",
+      "displayName": "金小毛",
+      "opera": "黄梅戏",
+      "play": "打猪草",
+      "role": "金小毛",
+      "roleType": null,
+      "path": "pets/da-zhu-cao/da-zhu-cao-jin-xiao-mao",
+      "preview": "pets/da-zhu-cao/da-zhu-cao-jin-xiao-mao/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "翠绿卷袖短衣＋圆钝小竹笋",
+      "sha256": "2743b5aed90e74cc188fdf1f074e7ba3f9bfaf6a910929f6895170d94e4ecab1"
     }
   ],
   "characterDesigns": [
@@ -218,17 +233,6 @@
       "path": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu",
       "preview": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png",
       "exclusiveSignature": "砖红短褂小圆帽＋六角花灯",
-      "status": "static-design",
-      "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
-    {
-      "id": "da-zhu-cao-jin-xiao-mao",
-      "displayName": "金小毛",
-      "play": "打猪草",
-      "path": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao",
-      "preview": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/portrait.png",
-      "exclusiveSignature": "翠绿卷袖短衣＋圆钝小竹笋",
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
