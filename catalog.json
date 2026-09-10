@@ -137,6 +137,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "赭棕藏青方块胸纹袍＋旧金方扣宽腰封",
       "sha256": "09d0840a8591944fb98ab9556de803662904a0812c747ae535a64f454c3529e3"
+    },
+    {
+      "id": "luo-pa-ji-chen-sai-jin",
+      "displayName": "陈赛金",
+      "opera": "黄梅戏",
+      "play": "罗帕记",
+      "role": "陈赛金",
+      "roleType": null,
+      "path": "pets/luo-pa-ji/luo-pa-ji-chen-sai-jin",
+      "preview": "pets/luo-pa-ji/luo-pa-ji-chen-sai-jin/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "豆沙宽边素裙＋宽边花角罗帕",
+      "sha256": "0deffbd4a85cc6ca767e37bcce67ee3e27e35beb2d7f3d4984c2e9df8f8a60d1"
     }
   ],
   "characterDesigns": [
@@ -147,17 +162,6 @@
       "path": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv",
       "preview": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png",
       "exclusiveSignature": "月蓝织纹窄袖衣＋银白小织梭",
-      "status": "static-design",
-      "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
-    {
-      "id": "luo-pa-ji-chen-sai-jin",
-      "displayName": "陈赛金",
-      "play": "罗帕记",
-      "path": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin",
-      "preview": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png",
-      "exclusiveSignature": "豆沙宽边素裙＋宽边花角罗帕",
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"

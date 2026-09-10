@@ -2,7 +2,7 @@
 
 黄梅戏主题的开源 Codex 卡通人偶动画合集，持续收录经典剧目角色，以卡通动画呈现戏服、身段与角色个性。
 
-目前收录 **9 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
+目前收录 **10 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
 
 ## 角色目录
 
@@ -17,6 +17,7 @@
 | ![七仙女](pets/tian-xian-pei/tian-xian-pei-qi-xian-nv/preview.gif) | [七仙女](pets/tian-xian-pei/tian-xian-pei-qi-xian-nv/README.md) | 天仙配 | 足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装 | [卡通人偶 ZIP](downloads/tian-xian-pei-qi-xian-nv.zip) |
 | ![董永](pets/tian-xian-pei/tian-xian-pei-dong-yong/preview.gif) | [董永](pets/tian-xian-pei/tian-xian-pei-dong-yong/README.md) | 天仙配 | 肘部方补丁靛蓝短衫＋十字结软包袱 | [卡通人偶 ZIP](downloads/tian-xian-pei-dong-yong.zip) |
 | ![王科举](pets/luo-pa-ji/luo-pa-ji-wang-ke-ju/preview.gif) | [王科举](pets/luo-pa-ji/luo-pa-ji-wang-ke-ju/README.md) | 罗帕记 | 赭棕藏青方块胸纹袍＋旧金方扣宽腰封 | [卡通人偶 ZIP](downloads/luo-pa-ji-wang-ke-ju.zip) |
+| ![陈赛金](pets/luo-pa-ji/luo-pa-ji-chen-sai-jin/preview.gif) | [陈赛金](pets/luo-pa-ji/luo-pa-ji-chen-sai-jin/README.md) | 罗帕记 | 豆沙宽边素裙＋宽边花角罗帕 | [卡通人偶 ZIP](downloads/luo-pa-ji-chen-sai-jin.zip) |
 
 凤冠与小锣只属于梅小水；其他已登记的具体服饰与道具同样不可跨角色复用。
 
@@ -51,7 +52,6 @@
 | 预览 | 角色 | 专属标志 |
 | --- | --- | --- |
 | ![织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png) | [织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/README.md) | 月蓝织纹窄袖衣＋银白小织梭 |
-| ![陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png) | [陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/README.md) | 豆沙宽边素裙＋宽边花角罗帕 |
 | ![梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/portrait.png) | [梁山伯](designs/liang-zhu/liang-zhu-liang-shan-bo/README.md) | 竹青双竖襟长衫＋方形翻盖书袋 |
 | ![祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/portrait.png) | [祝英台·书装版](designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/README.md) | 湖蓝三角折巾＋半开竹骨折扇 |
 | ![小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/portrait.png) | [小六妻](designs/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/README.md) | 暖橙靛青斜襟裙装＋单朵橘瓣布花 |
