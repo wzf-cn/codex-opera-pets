@@ -2,7 +2,7 @@
 
 黄梅戏主题的开源 Codex 卡通人偶动画合集，持续收录经典剧目角色，以卡通动画呈现戏服、身段与角色个性。
 
-目前收录 **6 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
+目前收录 **7 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
 
 ## 角色目录
 
@@ -14,6 +14,7 @@
 | ![李兆廷](pets/nv-fu-ma/nv-fu-ma-li-zhao-ting/preview.gif) | [李兆廷](pets/nv-fu-ma/nv-fu-ma-li-zhao-ting/README.md) | 女驸马 | 青灰斜边领长衫＋无字线装书 | [卡通人偶 ZIP](downloads/nv-fu-ma-li-zhao-ting.zip) |
 | ![公主](pets/nv-fu-ma/nv-fu-ma-gong-zhu/preview.gif) | [公主](pets/nv-fu-ma/nv-fu-ma-gong-zhu/README.md) | 女驸马 | 绛紫扇形小宫冠＋花纹团扇 | [卡通人偶 ZIP](downloads/nv-fu-ma-gong-zhu.zip) |
 | ![牛郎](pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/preview.gif) | [牛郎](pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 牛郎织女 | 背系草帽＋腰间短粗绳圈 | [卡通人偶 ZIP](downloads/niu-lang-zhi-nv-niu-lang.zip) |
+| ![七仙女](pets/tian-xian-pei/tian-xian-pei-qi-xian-nv/preview.gif) | [七仙女](pets/tian-xian-pei/tian-xian-pei-qi-xian-nv/README.md) | 天仙配 | 足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装 | [卡通人偶 ZIP](downloads/tian-xian-pei-qi-xian-nv.zip) |
 
 凤冠与小锣只属于梅小水；其他已登记的具体服饰与道具同样不可跨角色复用。
 
@@ -56,7 +57,6 @@
 | ![王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png) | [王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/README.md) | 砖红短褂小圆帽＋六角花灯 |
 | ![董永](designs/tian-xian-pei/tian-xian-pei-dong-yong/portrait.png) | [董永](designs/tian-xian-pei/tian-xian-pei-dong-yong/README.md) | 肘部方补丁靛蓝短衫＋十字结软包袱 |
 | ![金小毛](designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/portrait.png) | [金小毛](designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/README.md) | 翠绿卷袖短衣＋圆钝小竹笋 |
-| ![七仙女](designs/tian-xian-pei/tian-xian-pei-qi-xian-nv/portrait.png) | [七仙女](designs/tian-xian-pei/tian-xian-pei-qi-xian-nv/README.md) | 足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装 |
 
 ## 后续收录
 

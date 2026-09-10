@@ -92,6 +92,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "背系草帽＋腰间短粗绳圈",
       "sha256": "4e5f2beda8e297edd170f352fddfde0ef2b6a907f1a7298488a8a3814f84d9c0"
+    },
+    {
+      "id": "tian-xian-pei-qi-xian-nv",
+      "displayName": "七仙女",
+      "opera": "黄梅戏",
+      "play": "天仙配",
+      "role": "七仙女",
+      "roleType": null,
+      "path": "pets/tian-xian-pei/tian-xian-pei-qi-xian-nv",
+      "preview": "pets/tian-xian-pei/tian-xian-pei-qi-xian-nv/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装",
+      "sha256": "ed4fb1dd64492226352a12ebd26b6bdb3fa1df2c52406f11d639d70342bc6850"
     }
   ],
   "characterDesigns": [
@@ -190,17 +205,6 @@
       "path": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao",
       "preview": "designs/da-zhu-cao/da-zhu-cao-jin-xiao-mao/portrait.png",
       "exclusiveSignature": "翠绿卷袖短衣＋圆钝小竹笋",
-      "status": "static-design",
-      "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
-    {
-      "id": "tian-xian-pei-qi-xian-nv",
-      "displayName": "七仙女",
-      "play": "天仙配",
-      "path": "designs/tian-xian-pei/tian-xian-pei-qi-xian-nv",
-      "preview": "designs/tian-xian-pei/tian-xian-pei-qi-xian-nv/portrait.png",
-      "exclusiveSignature": "足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装",
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
