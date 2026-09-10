@@ -107,6 +107,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "足下云托＋双臂同根长披帛＋杏粉浅青悬浮仙装",
       "sha256": "ed4fb1dd64492226352a12ebd26b6bdb3fa1df2c52406f11d639d70342bc6850"
+    },
+    {
+      "id": "tian-xian-pei-dong-yong",
+      "displayName": "董永",
+      "opera": "黄梅戏",
+      "play": "天仙配",
+      "role": "董永",
+      "roleType": null,
+      "path": "pets/tian-xian-pei/tian-xian-pei-dong-yong",
+      "preview": "pets/tian-xian-pei/tian-xian-pei-dong-yong/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "肘部方补丁靛蓝短衫＋十字结软包袱",
+      "sha256": "c59672de7e35b64032eef2aa4a6f3650a8511d96a76bb47ddbbd0ef8e82e3dfb"
     }
   ],
   "characterDesigns": [
@@ -183,17 +198,6 @@
       "path": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu",
       "preview": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png",
       "exclusiveSignature": "砖红短褂小圆帽＋六角花灯",
-      "status": "static-design",
-      "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
-    {
-      "id": "tian-xian-pei-dong-yong",
-      "displayName": "董永",
-      "play": "天仙配",
-      "path": "designs/tian-xian-pei/tian-xian-pei-dong-yong",
-      "preview": "designs/tian-xian-pei/tian-xian-pei-dong-yong/portrait.png",
-      "exclusiveSignature": "肘部方补丁靛蓝短衫＋十字结软包袱",
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
