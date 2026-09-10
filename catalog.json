@@ -182,20 +182,24 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "竹青双竖襟长衫＋方形翻盖书袋",
       "sha256": "2321c40913d4761325610c21e891fe5cf815ec1413b4713266cd736f8f2dad8e"
-    }
-  ],
-  "characterDesigns": [
+    },
     {
       "id": "liang-zhu-zhu-ying-tai-shuzhuang",
       "displayName": "祝英台·书装版",
+      "opera": "黄梅戏",
       "play": "梁山伯与祝英台",
-      "path": "designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang",
-      "preview": "designs/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/portrait.png",
-      "exclusiveSignature": "湖蓝三角折巾＋半开竹骨折扇",
-      "status": "static-design",
+      "role": "祝英台·书装版",
+      "roleType": null,
+      "path": "pets/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang",
+      "preview": "pets/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/preview.gif",
+      "spriteVersionNumber": 2,
       "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
+      "credit": "wzf-cn",
+      "exclusiveSignature": "湖蓝三角折巾＋半开竹骨折扇",
+      "sha256": "86ce09185299b3531adc1c54f29d4699365dc5e4830adbc269ab3ee11ecd0554"
+    }
+  ],
+  "characterDesigns": [
     {
       "id": "fu-qi-guan-deng-xiao-liu-qi",
       "displayName": "小六妻",
