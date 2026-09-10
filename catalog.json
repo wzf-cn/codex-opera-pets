@@ -152,20 +152,24 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "豆沙宽边素裙＋宽边花角罗帕",
       "sha256": "0deffbd4a85cc6ca767e37bcce67ee3e27e35beb2d7f3d4984c2e9df8f8a60d1"
-    }
-  ],
-  "characterDesigns": [
+    },
     {
       "id": "niu-lang-zhi-nv-zhi-nv",
       "displayName": "织女",
+      "opera": "黄梅戏",
       "play": "牛郎织女",
-      "path": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv",
-      "preview": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png",
-      "exclusiveSignature": "月蓝织纹窄袖衣＋银白小织梭",
-      "status": "static-design",
+      "role": "织女",
+      "roleType": null,
+      "path": "pets/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv",
+      "preview": "pets/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/preview.gif",
+      "spriteVersionNumber": 2,
       "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
+      "credit": "wzf-cn",
+      "exclusiveSignature": "月蓝织纹窄袖衣＋银白小织梭",
+      "sha256": "3c3e2985cb40378fa743a0985da484f66b6ba900fc9ed7ae7913a521c2b963e5"
+    }
+  ],
+  "characterDesigns": [
     {
       "id": "liang-zhu-liang-shan-bo",
       "displayName": "梁山伯",
