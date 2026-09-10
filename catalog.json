@@ -227,19 +227,22 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "暖橙靛青斜襟裙装＋单朵橘瓣布花",
       "sha256": "3b2e53b87d1306b02f352117d628a1fac9c67ef8e980c600814bb2cc603db446"
-    }
-  ],
-  "characterDesigns": [
+    },
     {
       "id": "fu-qi-guan-deng-wang-xiao-liu",
       "displayName": "王小六",
+      "opera": "黄梅戏",
       "play": "夫妻观灯",
-      "path": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu",
-      "preview": "designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png",
-      "exclusiveSignature": "砖红短褂小圆帽＋六角花灯",
-      "status": "static-design",
+      "role": "王小六",
+      "roleType": null,
+      "path": "pets/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu",
+      "preview": "pets/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/preview.gif",
+      "spriteVersionNumber": 2,
       "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
+      "credit": "wzf-cn",
+      "exclusiveSignature": "砖红短褂小圆帽＋六角花灯",
+      "sha256": "dcb9cc79e1890513faa2a60641e377527c78e19cdb2450ee28789c5080a22a16"
     }
-  ]
+  ],
+  "characterDesigns": []
 }

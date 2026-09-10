@@ -2,7 +2,7 @@
 
 黄梅戏主题的开源 Codex 卡通人偶动画合集，持续收录经典剧目角色，以卡通动画呈现戏服、身段与角色个性。
 
-目前收录 **15 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
+目前收录 **16 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
 
 ## 角色目录
 
@@ -23,6 +23,7 @@
 | ![祝英台·书装版](pets/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/preview.gif) | [祝英台·书装版](pets/liang-zhu/liang-zhu-zhu-ying-tai-shuzhuang/README.md) | 梁山伯与祝英台 | 湖蓝三角折巾＋半开竹骨折扇 | [卡通人偶 ZIP](downloads/liang-zhu-zhu-ying-tai-shuzhuang.zip) |
 | ![金小毛](pets/da-zhu-cao/da-zhu-cao-jin-xiao-mao/preview.gif) | [金小毛](pets/da-zhu-cao/da-zhu-cao-jin-xiao-mao/README.md) | 打猪草 | 翠绿卷袖短衣＋圆钝小竹笋 | [卡通人偶 ZIP](downloads/da-zhu-cao-jin-xiao-mao.zip) |
 | ![小六妻](pets/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/preview.gif) | [小六妻](pets/fu-qi-guan-deng/fu-qi-guan-deng-xiao-liu-qi/README.md) | 夫妻观灯 | 暖橙靛青斜襟裙装＋单朵橘瓣布花 | [卡通人偶 ZIP](downloads/fu-qi-guan-deng-xiao-liu-qi.zip) |
+| ![王小六](pets/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/preview.gif) | [王小六](pets/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/README.md) | 夫妻观灯 | 砖红短褂小圆帽＋六角花灯 | [卡通人偶 ZIP](downloads/fu-qi-guan-deng-wang-xiao-liu.zip) |
 
 凤冠与小锣只属于梅小水；其他已登记的具体服饰与道具同样不可跨角色复用。
 
@@ -49,14 +50,6 @@
 发布包采用 sprite v2：8×11 图集、1536×2288 像素、192×208 单格，含 9 种标准状态与 16 个视线姿态。
 
 每个角色提供图集、动图预览、SHA-256 和脱敏验证摘要。梅小水已通过结构、透明边缘及方向盲测检查，逐帧视觉复核通过并保留轻微差异说明；尚未验证应用内实际播放。详见 [验证摘要](pets/original/mei-xiao-shui/qa/validation-summary.json)。
-
-## 主形象参考（尚非动画包）
-
-以下仅完成静态角色形象，动画尚待制作。
-
-| 预览 | 角色 | 专属标志 |
-| --- | --- | --- |
-| ![王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/portrait.png) | [王小六](designs/fu-qi-guan-deng/fu-qi-guan-deng-wang-xiao-liu/README.md) | 砖红短褂小圆帽＋六角花灯 |
 
 ## 后续收录
 
