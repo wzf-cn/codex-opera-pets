@@ -122,6 +122,21 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "肘部方补丁靛蓝短衫＋十字结软包袱",
       "sha256": "c59672de7e35b64032eef2aa4a6f3650a8511d96a76bb47ddbbd0ef8e82e3dfb"
+    },
+    {
+      "id": "luo-pa-ji-wang-ke-ju",
+      "displayName": "王科举",
+      "opera": "黄梅戏",
+      "play": "罗帕记",
+      "role": "王科举",
+      "roleType": null,
+      "path": "pets/luo-pa-ji/luo-pa-ji-wang-ke-ju",
+      "preview": "pets/luo-pa-ji/luo-pa-ji-wang-ke-ju/preview.gif",
+      "spriteVersionNumber": 2,
+      "license": "CC-BY-4.0",
+      "credit": "wzf-cn",
+      "exclusiveSignature": "赭棕藏青方块胸纹袍＋旧金方扣宽腰封",
+      "sha256": "09d0840a8591944fb98ab9556de803662904a0812c747ae535a64f454c3529e3"
     }
   ],
   "characterDesigns": [
@@ -143,17 +158,6 @@
       "path": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin",
       "preview": "designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png",
       "exclusiveSignature": "豆沙宽边素裙＋宽边花角罗帕",
-      "status": "static-design",
-      "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
-    {
-      "id": "luo-pa-ji-wang-ke-ju",
-      "displayName": "王科举",
-      "play": "罗帕记",
-      "path": "designs/luo-pa-ji/luo-pa-ji-wang-ke-ju",
-      "preview": "designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/portrait.png",
-      "exclusiveSignature": "赭棕藏青方块胸纹袍＋旧金方扣宽腰封",
       "status": "static-design",
       "license": "CC-BY-4.0",
       "credit": "wzf-cn"
