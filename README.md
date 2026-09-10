@@ -2,7 +2,7 @@
 
 黄梅戏主题的开源 Codex 卡通人偶动画合集，持续收录经典剧目角色，以卡通动画呈现戏服、身段与角色个性。
 
-目前收录 **5 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
+目前收录 **6 个完整动画卡通人偶**。静态主形象另列，不计入可安装卡通人偶数量。
 
 ## 角色目录
 
@@ -13,6 +13,7 @@
 | ![陶金花](pets/da-zhu-cao/da-zhu-cao-tao-jin-hua/preview.gif) | [陶金花](pets/da-zhu-cao/da-zhu-cao-tao-jin-hua/README.md) | 打猪草 | 桃红嫩绿围裙装＋三叶草篮 | [卡通人偶 ZIP](downloads/da-zhu-cao-tao-jin-hua.zip) |
 | ![李兆廷](pets/nv-fu-ma/nv-fu-ma-li-zhao-ting/preview.gif) | [李兆廷](pets/nv-fu-ma/nv-fu-ma-li-zhao-ting/README.md) | 女驸马 | 青灰斜边领长衫＋无字线装书 | [卡通人偶 ZIP](downloads/nv-fu-ma-li-zhao-ting.zip) |
 | ![公主](pets/nv-fu-ma/nv-fu-ma-gong-zhu/preview.gif) | [公主](pets/nv-fu-ma/nv-fu-ma-gong-zhu/README.md) | 女驸马 | 绛紫扇形小宫冠＋花纹团扇 | [卡通人偶 ZIP](downloads/nv-fu-ma-gong-zhu.zip) |
+| ![牛郎](pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/preview.gif) | [牛郎](pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 牛郎织女 | 背系草帽＋腰间短粗绳圈 | [卡通人偶 ZIP](downloads/niu-lang-zhi-nv-niu-lang.zip) |
 
 凤冠与小锣只属于梅小水；其他已登记的具体服饰与道具同样不可跨角色复用。
 
@@ -46,7 +47,6 @@
 
 | 预览 | 角色 | 专属标志 |
 | --- | --- | --- |
-| ![牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png) | [牛郎](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/README.md) | 背系草帽＋腰间短粗绳圈 |
 | ![织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/portrait.png) | [织女](designs/niu-lang-zhi-nv/niu-lang-zhi-nv-zhi-nv/README.md) | 月蓝织纹窄袖衣＋银白小织梭 |
 | ![陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/portrait.png) | [陈赛金](designs/luo-pa-ji/luo-pa-ji-chen-sai-jin/README.md) | 豆沙宽边素裙＋宽边花角罗帕 |
 | ![王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/portrait.png) | [王科举](designs/luo-pa-ji/luo-pa-ji-wang-ke-ju/README.md) | 赭棕藏青方块胸纹袍＋旧金方扣宽腰封 |

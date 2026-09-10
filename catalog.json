@@ -77,20 +77,24 @@
       "credit": "wzf-cn",
       "exclusiveSignature": "绛紫扇形小宫冠＋花纹团扇",
       "sha256": "ce98a73c4dc95121fc0de3672e8a2c189af806e3a3d75de3b438f94031012893"
-    }
-  ],
-  "characterDesigns": [
+    },
     {
       "id": "niu-lang-zhi-nv-niu-lang",
       "displayName": "牛郎",
+      "opera": "黄梅戏",
       "play": "牛郎织女",
-      "path": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang",
-      "preview": "designs/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/portrait.png",
-      "exclusiveSignature": "背系草帽＋腰间短粗绳圈",
-      "status": "static-design",
+      "role": "牛郎",
+      "roleType": null,
+      "path": "pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang",
+      "preview": "pets/niu-lang-zhi-nv/niu-lang-zhi-nv-niu-lang/preview.gif",
+      "spriteVersionNumber": 2,
       "license": "CC-BY-4.0",
-      "credit": "wzf-cn"
-    },
+      "credit": "wzf-cn",
+      "exclusiveSignature": "背系草帽＋腰间短粗绳圈",
+      "sha256": "4e5f2beda8e297edd170f352fddfde0ef2b6a907f1a7298488a8a3814f84d9c0"
+    }
+  ],
+  "characterDesigns": [
     {
       "id": "niu-lang-zhi-nv-zhi-nv",
       "displayName": "织女",
